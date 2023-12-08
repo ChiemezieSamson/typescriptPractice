@@ -1,0 +1,2 @@
+# typescriptPractice
+Typescript practice draft 
